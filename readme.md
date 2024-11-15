@@ -24,12 +24,9 @@ raiz/ │ ├── data/ │ └── model.py ├── controller/ │ └�
 
 ## Como Executar
 
-1. Clone o repositório:
-aqui entra o clone 
-2. Navegue até o diretório do projeto:
-cd jogo-palavras-secretas
-3. Execute o jogo:
-python main.py
+1. Clone o repositório: https://github.com/TechExplorer32/jogo-palavra-secreta
+2. Navegue até o diretório do projeto: cd jogo-palavras-secretas
+3. Execute o jogo: python main.py
 
 ## Exemplo de Uso
 
