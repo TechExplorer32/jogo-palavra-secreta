@@ -6,7 +6,14 @@ Este é um jogo de palavras secretas desenvolvido em Python utilizando a arquite
 
 O projeto está organizado da seguinte forma:
 
-raiz/ │ ├── data/ │ └── model.py ├── controller/ │ └── controller.py ├── view/ │ └── view.py └── main.py
+raiz/ 
+ │ ├── data/ 
+  │ └── model.py 
+   ├── controller/ 
+    │ └── controller.py 
+     ├── view/ 
+      │ └── view.py 
+          └── main.py
 
 - **data/model.py**: Contém a classe `Data` que gerencia os dados das categorias.
 - **controller/controller.py**: Contém a classe `Controller` que gerencia a lógica do jogo.
